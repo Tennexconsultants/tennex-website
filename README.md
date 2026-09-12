@@ -1,4 +1,4 @@
-# Tennex Website V1
+# Tennex Website V1.2
 
 A lightweight, responsive one-page website for **Tennex Consultants**.
 
@@ -60,3 +60,14 @@ Keep `index.html` and `styles.css` in the same folder and double-click `index.ht
 - White: `#FFFFFF`
 
 The site intentionally avoids unsupported claims, testimonials, statistics, fake client logos, and revenue promises.
+
+
+## V1.1 polish
+- Removed unfinished `[Surname]` placeholder from the live founder section.
+- Replaced the unfinished Loom placeholder with a finished brand panel until the real video exists.
+- Added favicon and social metadata.
+- Added a restrained credibility strip beneath the hero.
+- Improved mobile header CTA visibility and focus states.
+- Tightened a few pieces of copy without adding unsupported claims.
+
+- Updated founder name from MJ to MJ Louw.
